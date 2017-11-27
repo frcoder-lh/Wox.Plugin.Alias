@@ -1,0 +1,12 @@
+{
+    "ID":"d8a9f211303142439c68ab403b809da2",
+    "ActionKeyword":"a",
+    "Name":"Alias",
+    "Description":"命令别名",
+    "Author":"frcoder",
+    "Version":"0.0.1",
+    "Language":"python",
+    "Website":"https://github.com/frcoder-lh/Wox.Plugin.Alias",
+    "IcoPath":"Images\\alias.png",
+    "ExecuteFileName":"main.py"
+}
